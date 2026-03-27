@@ -18,6 +18,12 @@ The objective is to help a retail business answer:
 
 This project covers the **complete analytics lifecycle** — from raw data to business decision-making.
 
+<p align="center">
+  <a href="https://github.com/kauz-vii/Customer_Intelligence_and_Revenue_Optimization_System/blob/main/Insights.md">
+    <img src="https://img.shields.io/badge/For%20Key%20Insights%20with%20Business%20Impact%20%7C%20Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🎯 Objectives
