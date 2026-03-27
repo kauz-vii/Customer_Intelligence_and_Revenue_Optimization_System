@@ -136,7 +136,10 @@ Built an **interactive dashboard** for stakeholders.
 
 ## 📸 Dashboard Preview
 
-![RFM Chart](./RFM-chart.jpg)
+<p align="center">
+  <img src="https://github.com/kauz-vii/Customer_Intelligence_and_Revenue_Optimization_System/blob/main/dashboard.jpg"/>
+  <img src="https://github.com/kauz-vii/Customer_Intelligence_and_Revenue_Optimization_System/blob/main/RFM-chart.jpg"/>
+</p>
 
 ---
 
